@@ -1,0 +1,17 @@
+{
+  "description": "Dedicated to Lucy X -- the best cat ever.",
+  "image": "ipfs://bafybeic5msy6fp27b76fsdhtjeh2gekj6r2fuafjqoyu4vtj4v7lrwrama/",
+  "name": "Lucy X Memorial",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1151576400
+    },
+    {
+	  "display_type": "date",
+      "trait_type": "death",
+      "value": 1673954400
+    }
+  ]
+}
